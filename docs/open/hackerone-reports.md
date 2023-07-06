@@ -1,13 +1,20 @@
+HackerOne上前100的漏洞报告
+===
+
 该项目爬取了HackerOne上前100的漏洞报告，而且分门别类了，不同的漏洞类型和不同项目的漏洞TOP100
 
 阅读其他黑客是如何挖掘到这个漏洞，他们关注了哪些细节，并找到了这个漏洞，先追随大师，再成为大师
 
-Tops 100.
+
+如何挖掘漏洞
+-----
+
+### Tops 100.
 
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
 
-Tops by bug type.
+### Tops by bug type.
 
 - [Top XSS reports](tops_by_bug_type/TOPXSS.md)
 - [Top XXE reports](tops_by_bug_type/TOPXXE.md)
@@ -38,7 +45,7 @@ Tops by bug type.
 - [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTH.md)
 - [Top MFA reports](tops_by_bug_type/TOPMFA.md)
 
-Tops by program.
+### Tops by program.
 
 - [Top Mail.ru reports](tops_by_program/TOPMAILRU.md)
 - [Top HackerOne reports](tops_by_program/TOPHACKERONE.md)

@@ -1,5 +1,5 @@
 {
-  "title": "SecCMD",
+  "title": "SecCMD.net",
   "license": "© 2023 Cyber Walker.",
   "description": "{{description}}，为安全人员分享快速参考备忘单。",
   "keywords": "reference,Quick,Reference,cheatsheet,cheat,sheet",
@@ -14,6 +14,6 @@
     "label": "编辑"
   },
   "github": {
-    "url": "https://github.com/seccmd/seccmd"
+    "url": "https://github.com/seccmd/secbase"
   }
 }

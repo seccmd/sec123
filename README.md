@@ -1,7 +1,7 @@
 SecCMD (Security Command)
 ===
 
-`SecCMD` 安全命令【速查手册】，为安全人员提供快速参考备忘清单，更快速获取安全人员所需的各种各样的安全操作命令。快一步响应，多一倍安全。希望 `SecCMD` 能够帮助安全人员节省命令查找时间、提升安全操作效率，帮助企业公司降低安全损失。
+`SecCMD.net` 安全命令【速查手册】，为安全人员提供快速参考备忘清单，更快速获取安全人员所需的各种各样的安全操作命令。快一步响应，多一倍安全。希望 `SecCMD` 能够帮助安全人员节省命令查找时间、提升安全操作效率，帮助企业降低安全损失。
 
 ## Windows
 
@@ -26,11 +26,14 @@ SecCMD (Security Command)
 [Bash](./docs/bash.md)<!--rehype:style=background: rgb(0 237 100);-->  
 <!--rehype:class=home-card-->
 
-## Open Source Security
+## Security
 
-[Hacker-Howto](./docs/open/hacker-howto.md)<!--rehype:style=background: rgb(0 237 100);-->  
-[Hackerone-Reports](./docs/open/hacker-howto.md)<!--rehype:style=background: rgb(0 237 100);-->  
+[Hacker-Howto](./docs/open/hacker-howto.md)<!--rehype:style=background: rgb(57 59 60);-->  
+[Hackerone-Reports](./docs/open/hackerone-reports.md)<!--rehype:style=background: rgb(57 59 60);--> 
+<!--rehype:class=home-card-->
 
+
+## One Click Install
 
 
 
